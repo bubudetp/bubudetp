@@ -5,6 +5,6 @@ Currently building a video-based food delivery app that blends short-form conten
 Let’s connect on LinkedIn.
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,java,cpp,csharp,php,r,bash,mysql,postgres,git,docker,aws,linux" />
   </a>
 </p>
