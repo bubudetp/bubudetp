@@ -2,8 +2,6 @@
 
 I'm Burak. SWE @AnansiSolutions.
 
-https://github.com/bubudetp/orca-ascii-terminal-splash/raw/main/assets/orca-splash.gif
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,ts,nextjs,nestjs,prisma,rust,java,cpp,cs,bash,mysql,postgres,git,docker,aws,terraform,cloudflare," />
